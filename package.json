@@ -1,0 +1,35 @@
+{
+  "name": "aprendiendo-node",
+  "version": "1.0.0",
+  "description": "aprendiendo node desde 0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel-Gutierrez-code/Aprendiendo-node.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "midudev",
+    "manga"
+  ],
+  "author": "gutierrez manuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuel-Gutierrez-code/Aprendiendo-node/issues"
+  },
+  "homepage": "https://github.com/Manuel-Gutierrez-code/Aprendiendo-node#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+    }
+}

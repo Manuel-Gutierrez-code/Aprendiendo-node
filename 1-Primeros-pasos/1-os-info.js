@@ -1,5 +1,4 @@
 const os = require('node:os')
-const { uptime } = require('node:process')
 
 console.log('Información sobre el sistema operativo')
 console.log('---------------------------------------')
@@ -12,4 +11,4 @@ console.log('Memoria libre:', os.freemem / 1024 / 1024)
 console.log('Memoria total:', os.totalmem / 1024 / 1024)
 console.log('uptime', os.uptime() / 60 / 60)
 
-//Este es un ejemplo de como utilizar las variables globales.
+// Este es un ejemplo de como utilizar las variables globales.

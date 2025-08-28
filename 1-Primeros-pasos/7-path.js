@@ -8,5 +8,5 @@ console.log(filePhat)
 const base = path.basename(filePhat)
 console.log(base)
 
-const extension = path.extname(filePhat) //Devuelve la extensión
+const extension = path.extname(filePhat) // Devuelve la extensión
 console.log(extension)
