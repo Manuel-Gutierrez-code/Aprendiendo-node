@@ -11,4 +11,7 @@ console.log('Memoria libre:', os.freemem / 1024 / 1024)
 console.log('Memoria total:', os.totalmem / 1024 / 1024)
 console.log('uptime', os.uptime() / 60 / 60)
 
+// hola que tal
+console.log('hola')
+
 // Este es un ejemplo de como utilizar las variables globales.
