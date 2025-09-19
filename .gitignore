@@ -2,4 +2,5 @@
 /3-API-REST/node_modules
 /4-MVC/node_modules
 /5-Chat-Real-Time/node_modules
+/5-Chat-Real-Time/.env
 /node_modules

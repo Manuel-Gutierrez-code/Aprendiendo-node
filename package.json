@@ -24,6 +24,8 @@
     "extends": "standard"
   },
   "dependencies": {
+    "@libsql/client": "^0.15.15",
+    "@tursodatabase/database": "^0.1.5",
     "express": "5.1.0"
   }
 }
